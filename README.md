@@ -14,10 +14,10 @@
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** HTML, CSS, C++  
+- **Lenguajes:** HTML, CSS, JS 
 - **Control de versiones:** Git & GitHub  
 - **Software de oficina:** Excel, Word, PowerPoint  
-- **Otros:** Flexxus, Manejo de redes sociales  
+- **Otros:** Manejo de redes sociales  
 
 ---
 
