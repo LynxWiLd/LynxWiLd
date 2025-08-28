@@ -1,4 +1,6 @@
-![Texto alternativo](https://whoissamjarvis.com/wp-content/uploads/2016/09/jim-halpert-looks-at-computer-shakes-head.gif?w=620)
+<p align="center">
+  <img src="https://whoissamjarvis.com/wp-content/uploads/2016/09/jim-halpert-looks-at-computer-shakes-head.gif?w=620">
+</p>
 
 # 👋 Hola, soy Facundo Vera (LynxWiLd)
 
