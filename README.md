@@ -1,3 +1,5 @@
+![Texto alternativo]([URL-del-gif.gif](https://whoissamjarvis.com/wp-content/uploads/2016/09/jim-halpert-looks-at-computer-shakes-head.gif?w=620))
+
 # 👋 Hola, soy Facundo Vera (LynxWiLd)
 
 💻 **Desarrollador en formación | Artista visual | Apasionado por la tecnología**
