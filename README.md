@@ -10,10 +10,9 @@
 
 ## 🚀 Sobre mí
 - 🎨 Bachiller en Artes Visuales, con mirada creativa para diseño y desarrollo.  
-- 📚 Actualmente estudiando y fortaleciendo mis habilidades en **HTML, CSS, Git y JS**.  
+- 📚 Actualmente estudiando y fortaleciendo mis habilidades en **HTML, CSS, Git, JS y React**.  
 - 🏢 Experiencia en ventas, asesoría al cliente y gestión de cobranzas.  
-- 💡 Me motiva el trabajo en equipo, la innovación y la mejora continua.  
-- 🎧 Amante de la música (del cuarteto al rock argentino).  
+- 💡 Me motiva el trabajo en equipo, la innovación y la mejora continua. 
 
 ---
 
