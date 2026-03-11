@@ -4,13 +4,13 @@
   <img src="https://whoissamjarvis.com/wp-content/uploads/2016/09/jim-halpert-looks-at-computer-shakes-head.gif?w=620" alt="Jim Halpert" width="400">
 </div>
 
-### 🚀 Senior Full Stack Developer | Visual Artist & UI Enthusiast
+### 🚀 Full Stack Developer (Junior) | Visual Artist
 
-Soy un desarrollador enfocado en construir soluciones robustas y estéticamente impecables. Mi formación en **Artes Visuales** me permite cerrar la brecha entre la lógica del backend y una experiencia de usuario excepcional en el frontend. Actualmente centrado en el ecosistema **MERN** y la arquitectura de aplicaciones escalables.
+Soy un desarrollador recién certificado apasionado por crear soluciones web donde la funcionalidad y el diseño se encuentran. Mi formación en **Artes Visuales** me aporta una perspectiva única para el desarrollo Frontend, asegurando interfaces estéticas y centradas en el usuario.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Skills
 
 **Frontend & Design**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,27 +19,22 @@ Soy un desarrollador enfocado en construir soluciones robustas y estéticamente 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-**Backend & Database**
+**Backend & Learning Path**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools & Workflow**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+---
+
+### 📌 Proyectos de Certificación
+
+* **[MERN Music App](https://github.com/LynxWiLd/tu-repo-del-proyecto)**: Proyecto final de carrera. Una aplicación de streaming completa usando el stack MERN.
+* **[Estudio Camaleón](https://github.com/LynxWiLd/EstudioCamaleonFrontEnd)**: Landing page profesional donde aplico conceptos avanzados de diseño visual y CSS.
+* **[FitManage API](https://github.com/LynxWiLd/PCruzado/ProyectoGimnasio-BackEnd)**: Colaboración en el desarrollo de un sistema de gestión para gimnasios (Backend focus).
 
 ---
 
-### 📌 Proyectos Destacados
-
-* **[MERN Music App](https://github.com/LynxWiLd/tu-repo-del-proyecto)**: Aplicación Full-stack de streaming de música con gestión de estados compleja y arquitectura escalable.
-* **[Streaming Platform Concept](https://github.com/LynxWiLd/grupo4proyecto)**: Desarrollo frontend de alto impacto visual aplicando principios de diseño y transiciones fluidas.
-* **[Teoría del Color Landing](https://github.com/LynxWiLd/Trabajo-Grupal-LFM)**: Proyecto donde aplico mis conocimientos de artes visuales al diseño web responsivo.
-
----
-
-### 📊 Github Stats
+### 📊 Mis Estadísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LynxWiLd&show_icons=true&theme=tokyonight" alt="LynxWiLd GitHub Stats" />
@@ -51,7 +46,6 @@ Soy un desarrollador enfocado en construir soluciones robustas y estéticamente 
 
 * 💼 **LinkedIn:** [linkedin.com/in/vera-facundo](https://linkedin.com/in/vera-facundo)
 * 📧 **Email:** [facundovera647@gmail.com](mailto:facundovera647@gmail.com)
-* 🎮 **Gaming & Content:** Streamer ocasional enfocado en comunidad y tecnología.
 
 ---
-*Senior is not a title, it's a mindset. Always learning, always building.*
+*En constante aprendizaje y construcción.*
